@@ -1,0 +1,26 @@
+<!dOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="webpage.css">
+
+</head>
+<body>
+<div class="banner">
+<div class="navbar">
+<ul>
+<li><a href="#home">Home</a></li>
+<li><a href="#About">About</a></li>
+<li><a href="#Products">Products</a></li>
+<li><a href="#Review">Review</a></li>
+<li><a href="#Contacts">Contacts</a></li>
+
+<li><a href="reg.html">Register</a></li>
+<li><a href="log.html">Login</a></li>
+</ul>
+<div class="content">
+<b>Every Flower is a soul<br>blossoming in Nature</b><br><br>
+</div>
+</div>
+</div>
+</body>
+</html>
